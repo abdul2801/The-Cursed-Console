@@ -8,8 +8,8 @@ A mysterious ROM has surfaced, along with a modified NES emulator to run it. The
 
 Can you navigate through the glitched world and uncover the hidden flag?
 
-- **Author:** Abdul Rafey Ahmad
-- **Flag:** `apoorvctf{...}`
+- **Author:** Afdul
+- **Flag:** `apoorvctf{Br}OOk}`
 
 ---
 
