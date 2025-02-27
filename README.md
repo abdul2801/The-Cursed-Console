@@ -52,7 +52,7 @@ There are rendering issues in any NES game you run with the provided emulator, m
 
 Load up your favorite game in Mesen, such as Super Mario Bros. Open the palette viewer and compare the background color values to those given in the challenge. The colors correspond to ASCII values of the flag, mod 64, to handle overflow.
 
-![Pallete Viewer](images/palette.png)
+![Pallete Viewer](images/pallete.png)
 
 ---
 
