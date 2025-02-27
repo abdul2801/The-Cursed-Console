@@ -55,14 +55,14 @@ The flag is hidden in the background palette colors.
 
 Load up your favorite game in Mesen, such as Super Mario Bros. Open the palette viewer and compare the background color values to those given in the challenge. The colors correspond to ASCII values of the flag, mod 64, to handle overflow.
 
-![Pallete Viewer](images/pallete.png)
-This is the Value of 64 bit colors in any standard NES game.
+![Palette Viewer](images/pallete.png)
+This is the Value of 64-bit colors in any standard NES game.
 
 ![Colors](images/colors.png)
-This is the colors of the background palette in the default nes game.
+This is the colors of the background palette in the default NES game.
 
-![emu][images/emu.png]
-
+![Emulator](images/emu.png)
+Keep changing all colors to match the modded emulator colors.
 Now just change the colors based on the values in the modded emulator and you will get the flag.
 
 Eg : 
