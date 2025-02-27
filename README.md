@@ -55,7 +55,7 @@ Now just change the colors based on the values in the modded emulator and you wi
 
 Eg : 
 ```
-First bg pallete correst to dark blue which is 0x02.
+First bg pallete corresponds to dark blue which is 0x02.
     0x02 + 64 = 66 -> ASCII value of B
     ... and so on
 ```
